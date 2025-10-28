@@ -1,15 +1,15 @@
 👋 Hi, I'm Kanchana E.K
 
-💻 Frontend Developer | 🌱 Learning Web Development 
+  💻 Frontend Developer | 🌱 Learning Web Development 
 
-📫 How to reach me kanchanaek123@gmail.com
+  📫 How to reach me kanchanaek123@gmail.com
 
 ### 🛠 Skills
 - HTML, CSS, JavaScript
 - Python (basic)
 - Git & GitHub
 
-- 📫 Connect with me
+📫 Connect with me
 - 📧 Email: kanchanaek123@gmail.com
 - 💼 LinkedIn: (https://www.linkedin.com/in/kanchana-ek-b00018286)
 
