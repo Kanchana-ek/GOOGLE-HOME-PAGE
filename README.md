@@ -11,6 +11,6 @@
 
 - 📫 Connect with me
 - 📧 Email: kanchanaek123@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/kanchanaek]
+- 💼 LinkedIn: (https://www.linkedin.com/in/kanchana-ek-b00018286)
 
 - From [Kanchana E.K](https://github.com/kanchanaek)
